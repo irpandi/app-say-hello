@@ -2,3 +2,5 @@ github.com/irpandi/go-say-hello v1.0.0 h1:k7JMkVUddhV24j9NvcF/Azus2S6gqhGZSD/UES
 github.com/irpandi/go-say-hello v1.0.0/go.mod h1:jqJ/RJ8p6cHhS53/FyS5JEC/DeudES9+efDGkclQB5U=
 github.com/irpandi/go-say-hello v1.5.0 h1:BXNvw4DkVGDqgy5RWCFLl6tq3R5RwI3mP5OoTKFmDnQ=
 github.com/irpandi/go-say-hello v1.5.0/go.mod h1:jqJ/RJ8p6cHhS53/FyS5JEC/DeudES9+efDGkclQB5U=
+github.com/irpandi/go-say-hello/v2 v2.0.0 h1:TDT/dSO+UXzitGj5aroJlRSA2d5o9eFJ3ZxUMo3QmR8=
+github.com/irpandi/go-say-hello/v2 v2.0.0/go.mod h1:CCsu+jUH2sVQfq6nptgerkW9VUejlYcJrnMd27onNSE=
